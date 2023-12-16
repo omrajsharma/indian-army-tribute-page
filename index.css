@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #dad7cd;
+}
+
+header {
+    margin: 48px 0 24px 0;
+    text-shadow: 2px 2px 4px #ababab;
+}
+
+section {
+    margin: auto;
+    margin-bottom: 24px; 
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#main-img {
+    width: 600px;
+    height: 450px;
+    background-image: url('https://images.meesho.com/images/products/122440160/hnzyf_512.webp');
+    background-color: #dad7cd;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+}
